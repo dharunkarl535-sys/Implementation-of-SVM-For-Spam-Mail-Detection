@@ -51,6 +51,10 @@ accuracy
 
 <img width="708" height="150" alt="530320122-804afc3b-da33-406d-b796-e54eecb70787" src="https://github.com/user-attachments/assets/863319ce-fec8-4caf-8ee4-8441949ddb02" />
 <img width="726" height="237" alt="530320144-f6bbcec5-7f79-4636-9f85-878f9b1b96f7" src="https://github.com/user-attachments/assets/5cc85c44-d869-49dc-b525-31ba702d2385" />
+<img width="414" height="274" alt="530320186-9d600c87-9b76-4155-b288-b071f50c0554" src="https://github.com/user-attachments/assets/1f2286a7-b5fa-4ce5-91f4-8ab9e590cd8e" />
+<img width="653" height="184" alt="530320233-0db59c3c-c0cd-47a7-8b75-4caf7ed0ea4d" src="https://github.com/user-attachments/assets/08098bbd-fd42-4ca1-86f0-359b5c959664" />
+<img width="422" height="131" alt="530320311-a1e82429-3893-4060-ac02-fc556790b889" src="https://github.com/user-attachments/assets/4ef1136b-84d4-4b21-9088-f67bcc2062b6" />
+<img width="422" height="131" alt="530320311-a1e82429-3893-4060-ac02-fc556790b889" src="https://github.com/user-attachments/assets/1d5d11c7-ffb2-477d-b90a-1f431c3a69c3" />
 
 
 ## Result:
